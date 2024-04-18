@@ -1,12 +1,11 @@
 creativeWorkStatus: Published
-name: OER GitHub Tutorial
+name: OER GitHub Tutorial - LiaScript
 description: >-
-  This tutorial shows how to easily publish OER on GitHub using a template.
+  This tutorial shows how to easily publish OER on GitHub using LiaScript.
 
   By following just a few simple steps, you can create your own OER, publish it
-  for free on GitHub, include it in our OER search index OERSI and always have
-  up-to-date generated documents automatically created for you by the template
-  in under five minutes!
+  for free on GitHub and include it in our OER search index OERSI in under
+  five minutes!
 license:
   id: https://creativecommons.org/licenses/by/4.0/deed.de
 id: >-
@@ -26,6 +25,7 @@ keywords:
   - Git
   - GitHub
   - Tutorial
+  - LiaScript
 inLanguage:
   - en
 image: >-
@@ -34,4 +34,4 @@ learningResourceType:
   - https://w3id.org/kim/hcrt/course
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
-datePublished: '2023-09-28'
+datePublished: '2024-04-18'
